@@ -9,8 +9,7 @@ export default {
     methods: {        
         incrementCounter: function ()
         {
-            //New feature 2
-            this.currentcount += 300;
+            this.currentcount += 1;
         },
     }
 }
