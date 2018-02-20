@@ -9,6 +9,7 @@ export default {
     methods: {        
         incrementCounter: function ()
         {
+            //should be 1
             this.currentcount += 1;
         },
     }
