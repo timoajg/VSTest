@@ -9,7 +9,7 @@ export default {
     methods: {        
         incrementCounter: function ()
         {
-            this.currentcount += 200;
+            this.currentcount += 300;
         },
     }
 }
